@@ -1,0 +1,3 @@
+anti-flicker-comparison.mp4: LEFT = original sprites, CENTER = normal stabilization (2, 64 colors), RIGHT = strong stabilization (3, 48 colors).
+This compares the original 96-frame sprite sequence, not the entire forest composition from cutscene.mp4.
+anti-flicker-comparison.cutscene contains the same comparison as an editable scene.

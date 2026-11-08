@@ -1,0 +1,13 @@
+/backups/
+/work/
+/settings/
+/.git-disabled-hooks/
+*.build.exe
+*.writing-*
+*.tmp
+*checks.txt
+*error.txt
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,9 @@
+{
+  "image": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 108,
+  "frameCount": 96,
+  "columns": 10,
+  "fps": 12,
+  "order": "row-major"
+}

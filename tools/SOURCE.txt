@@ -1,0 +1,7 @@
+FFmpeg Windows essentials build from Gyan Doshi
+https://ffmpeg.org/download.html
+https://www.gyan.dev/ffmpeg/builds/
+https://github.com/GyanD/codexffmpeg/releases
+Source code: https://github.com/FFmpeg/FFmpeg
+Archive SHA256: 
+60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba
